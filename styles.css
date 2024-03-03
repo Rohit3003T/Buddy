@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 20px;
+}
+
+.content {
+    margin-top: 50px;
+}
+
+#output {
+    margin-bottom: 20px;
+}
